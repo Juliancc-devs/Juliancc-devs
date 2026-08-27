@@ -19,7 +19,7 @@ I love learning something new every day, building projects, and learning from pe
 
 * 💻 I’m currently looking for job opportunities, especially in **Python development**, but I’m open to learning new technologies and improving my skills.
 
-* 👯 I’m open to collaborating on open source projects to learn and practice more.
+* 👥 I’m open to collaborating on open source projects to learn and practice more.
 
 * ✔ Feel free to ask me anything or share advice. I’m always open to learning.
 
