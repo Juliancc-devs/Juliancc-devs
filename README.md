@@ -23,7 +23,7 @@ I love learning something new every day, building projects, and learning from pe
 
 * ✔ Feel free to ask me anything or share advice. I’m always open to learning.
 
-* 📫 Reach out to me at: [julianzcfreelancer1228@gmail.com](mailto:julianzcfreelancer1228@gmail.com)
+* 📫 Reach out to me at: [julianzc1228@gmail.com](mailto:julianzc1228@gmail.com)
 
 ## My Skills
 
