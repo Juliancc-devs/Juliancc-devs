@@ -8,7 +8,7 @@
 
 <img src="https://media.tenor.com/JUs9cgCpCqIAAAAi/hello-wave.gif" width="30px">&nbsp;***About me***
 
-I am a Software Engineering student, currently expanding my knowledge and skills in software development. I am especially interested in **back-end development**, although I also have a strong interest in front-end development. My main goal is to specialize in **back-end or mobile development**.
+I am a Software Engineering student, currently expanding my knowledge and skills in software development. I am especially interested in **Data Analyst**, although I also have a strong interest in back-end development. My main goal is to specialize in **Data Engineer or Cyber Security**.
 
 I love learning something new every day, building projects, and learning from people with more experience to apply their knowledge to my own projects.
 
